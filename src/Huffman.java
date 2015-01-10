@@ -3,7 +3,7 @@ import java.io.*;
 public class Huffman
 {
 	//------------------------------------------------------------------------
-	// main - The main program for performing all operations.
+	// MAIN
 	//------------------------------------------------------------------------
 	public static void main( String args[] )
 	{
