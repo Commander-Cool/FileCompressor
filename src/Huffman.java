@@ -1,17 +1,3 @@
-/*
-##############################################################################################################
-	Huffman's Algorithm Program
-	By: Dustin Grimmeissen
-
-	-> Main Program and Functions
-
-	This program asks takes a text file as input.  The file is parsed into a string and the number of
-	occurances for each character is stored in a list.  This list is used to apply the Huffman Algorithm
-	for non-prefix text encryption.  Each character is encoded into binary strings with the characters
-	that have the highest frequency containing the least number of bits in their encodings.
-##############################################################################################################
-*/
-
 import java.io.*;
 
 public class Huffman
